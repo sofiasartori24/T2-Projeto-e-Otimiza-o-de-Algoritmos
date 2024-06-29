@@ -1,3 +1,5 @@
+package Algoritmo1;
+
 public class Main {
     public static void main(String[] args) {
         int[] l = {10, 1, 10, 10, 10};

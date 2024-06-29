@@ -1,3 +1,5 @@
+package Algoritmo1;
+
 public class TaskPlanning {
     public void solveP1(int[] l, int[] h) {
         int n = l.length;
