@@ -3,10 +3,10 @@ package Algoritmo2;
 public class Main {
     public static void main(String[] args) {
         //--- Definição dos itens e da capacidade da mochila ---------
-        int n = 4;
-        int[] wi = {2, 3, 4, 5};
-        int[] vi = {3, 4, 5, 6};
-        int W = 5;
+        int n = 5;
+        int[] wi = {5, 6, 2, 1, 7};
+        int[] vi = {18, 22, 6, 1, 28};
+        int W = 11;
 
         Backpack solver = new Backpack(n, wi, vi, W);
 
